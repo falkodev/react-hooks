@@ -12,7 +12,10 @@ const App = () => {
     setPosts([...posts, post])
   }
 
-  const sortPosts = posts => setPosts(posts)
+  const sortPosts = posts => {
+    setPosts(posts)
+    console.log('posts ====> ', posts)
+  }
 
   return (
     <div className="container">

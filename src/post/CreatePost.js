@@ -5,7 +5,7 @@ import './CreatePost.css'
 const CreatePost = props => {
   const initialState = {
     content: '',
-    tags: '',
+    tags: [],
     author: '',
   }
   const [post, setPost] = useState(initialState)
@@ -27,6 +27,7 @@ const CreatePost = props => {
       return
     }
 
+    post.tags = [post.tags]
     props.addPost(post, props.setPosts)
     setPost(initialState)
     setMessage('Post added.')
