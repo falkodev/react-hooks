@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Markdown from 'react-remarkable'
+import './RenderPost.css'
 
 const Post = props => {
   const post = props.post

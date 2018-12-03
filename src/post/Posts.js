@@ -1,5 +1,6 @@
 import React from 'react'
 import Post from './RenderPost'
+import './Posts.css'
 
 const RenderPosts = props => {
   const sortByTag = () => {

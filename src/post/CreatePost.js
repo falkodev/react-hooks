@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import PropTypes from 'prop-types'
+import './CreatePost.css'
 
 const CreatePost = props => {
   const initialState = {
@@ -33,8 +34,8 @@ const CreatePost = props => {
   }
 
   return (
-    <form onSubmit={handleSubmit}>
-      <div className="Post-Content">
+    <form onSubmit={handleSubmit} className="create-post">
+      <div className="create-post__content">
         <label htmlFor="content">Content</label>
         <textarea
           name="content"
@@ -43,7 +44,7 @@ const CreatePost = props => {
           onChange={handleInputChange}
         />
       </div>
-      <div className="Post-Tags">
+      <div className="create-post__tags">
         <label htmlFor="tags">Tags</label>
         <input
           type="text"
@@ -53,7 +54,7 @@ const CreatePost = props => {
           onChange={handleInputChange}
         />
       </div>
-      <div className="Post-Author">
+      <div className="create-post__author">
         <label htmlFor="author">Author</label>
         <input
           type="text"

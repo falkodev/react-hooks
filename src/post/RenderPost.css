@@ -1,0 +1,29 @@
+.post {
+  position: relative;
+  background: white;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px 0px #aaa;
+}
+
+.post__content {
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 20px;
+}
+
+.post__tags {
+  background: lightgray;
+  color: #888;
+  border-radius: 20px;
+  width: fit-content;
+  padding: 3px 15px;
+  font-size: 12px;
+}
+
+.post__author {
+  top: 20px;
+  right: 20px;
+  position: absolute;
+  color: grey;
+}

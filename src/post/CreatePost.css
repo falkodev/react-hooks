@@ -1,0 +1,29 @@
+textarea {
+  overflow: auto;
+  height: auto;
+}
+
+label {
+  font-weight: 600;
+  max-width: 100%;
+  display: block;
+  margin: 1rem 0 0.5rem;
+}
+
+form {
+  background: white;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px 0px #aaa;
+}
+
+.validate-fail {
+  border: 1px solid red;
+}
+
+.message-fail {
+  color: red;
+}
+.message-success {
+  color: green;
+}
