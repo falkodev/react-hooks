@@ -1,0 +1,2696 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders posts matching snapshot 1`] = `
+<div
+  class="posts"
+>
+  <div
+    class="posts__buttons"
+  >
+    <button>
+      Sort by tag
+    </button>
+     
+    <button>
+      Sort by number
+    </button>
+  </div>
+  <div
+    class="posts__render"
+  >
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Travel alone: see it for yourself!
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Fanny Clausse
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How can we develop "permaculture
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Wellness&Health
+      </div>
+      <div
+        class="post__author"
+      >
+        Pierre Palencher
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Create your own fashion style and stop stan smith
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Soukaina Hafidi
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Instagram, or the new fashion show
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Yasmine Boussaid
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Break frontiers through culture
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Primrose Semilinko
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Break frontiers through culture
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        César Roussel
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Music festivals, a way of gathering cultures
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Agathe Lemoyne
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Stop talking, start doing !
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Azzeddine Hassena
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Teaching science for dummies
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Raphaël Béroux
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand the success of the french wine
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Céleste Gaultier
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              The right cost of fair agriculture
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Wellness&Health
+      </div>
+      <div
+        class="post__author"
+      >
+        Jules Lettermann
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How to form a band
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Simin Liu
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Make a design DIY bookshelf for your studio
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Antoine Broudin
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              The right cost of fair agriculture
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Wellness&Health
+      </div>
+      <div
+        class="post__author"
+      >
+        Lucas Guilhot
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Driving an assiociative project with friends
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Théodore Chauveaux
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Enjoy highly complicated watches
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Jules Sesplugues
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand murders in a family
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Elie Lafin
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Analyse mass manipulation under dictatures
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Etienne Bourgeois
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Be a woman in a Business School
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Constance Gédon
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Express your feelings with music
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Capucine Appercé
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Learn new original soundtrack
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Pauline Blondel
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Developping your instagram community
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Romain Baud
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Establish a healthy skincare routine
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Wellness&Health
+      </div>
+      <div
+        class="post__author"
+      >
+        Shining Tu
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              To know how a video game is made
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Valentin Durel
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Personal development challenges
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Arthur Romagné
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Is the whale shark a shark or a whale ?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Samuel Fitoussi
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How to behave in an Asian society
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Jean-luc Kui
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Elon Musk: asset for the world?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Entrepreneurship&Business
+      </div>
+      <div
+        class="post__author"
+      >
+        Nicolas Durand
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How to organize a festival
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Entrepreneurship&Business
+      </div>
+      <div
+        class="post__author"
+      >
+        Ludovic De Froissard
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Improve your personal or your business' productivity and efficiency thanks to information technology (B2B Software)
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Entrepreneurship&Business
+      </div>
+      <div
+        class="post__author"
+      >
+        Amokrane Tamine
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How to improve your work efficiency thanks to sport ?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Clémentine Prost
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Imagine the real estate of tomorrow
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Romy Marie Marjolijn Tavernier
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand the way a human react in competition
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Oscar Du Hamel Fougeroux
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Well done of Bissap
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Wellness&Health
+      </div>
+      <div
+        class="post__author"
+      >
+        Hedi Assadi
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understanding why we dress a certain way, from a sociological and cultural standpoint
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Mathieu Antolini
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand murders in a family
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Nathan Elalouf
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Building a fairer and more efficient financial system
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Tom Créance
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand the comeback of the vinyl whereas the cd is abandoned
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Clément Maitenaz
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              To find out why you are predisposed to absolute ear (or how to get it)
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Sophie Bouchard
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Express your feelings with music
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Mahina Bachelier
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How to gain confidence through sophrology ?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Wellness&Health
+      </div>
+      <div
+        class="post__author"
+      >
+        Mathilde Terrier
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Discover the business about sneakers
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Hugo Bachelet
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Imagine your kids in a zoo or a circus, would you leave them inside like animals ?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Education&Society
+      </div>
+      <div
+        class="post__author"
+      >
+        Diangienda Ivana Catumba
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How to deal with dual nationality ?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Yanis Bouaziz
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Prepare the aquatic marathon of Santa Fe
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Tarik Hajjam
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand the complexity of logos.
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Sophie Dang
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Rugby a sport that federates people
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Nicolas Paulin
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Cultivate melons and tomates
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Judith Nerin
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Eating healthy and easy on a budget
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Lila Dermange
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Take the leap
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Armand De Cacqueray
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Allow everyone to make a movie.
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Pierre-louis Malinet
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand why certain music are labelled as "shitty
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Joan Vivinus
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand the symbols in « the Arnolfinis » by Jan van Eyck
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Clara Spiesser
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Learn how the distance surgery works
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Caroline De Filippis
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              POWER YOUR BIKE WITH AN OLD CHAINSAW - DIY
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Alexandre Chidaine
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Does traveling change personnalities
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Léna Sarot
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Knowing a bit more about the Francs-Maçons
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Raphaëlle Petit
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How comedy makes us better people?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Samuel Szwarc
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Take inspiration from nature to innovate sustainably !
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Yanis Boumaza
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Take inspiration from nature to innovate sustainably !
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Fares Jaber
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand the evolution of techno music since the 90’
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Claire Nguyen-quang
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              The evolution of keyboard’s practice through the centuries (piano)
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Antoine Pesla
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              study the influence of rap in today’s world
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Pierre-antoine Clouzeau
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              What feminism means today ?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Education&Society
+      </div>
+      <div
+        class="post__author"
+      >
+        Camille Dubourdieu-rayrot
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How hip-hop & culture impact each other
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Cyrian Dorey-bobone
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Keep your uniqueness in a robotized world
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Annabelle Perol
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Go from an ethical ideal to a business
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Entrepreneurship&Business
+      </div>
+      <div
+        class="post__author"
+      >
+        Laura Millot
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Knowing what makes a start-up successful
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Entrepreneurship&Business
+      </div>
+      <div
+        class="post__author"
+      >
+        Lucas Janer
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Study the impact of competition on sport results
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Aymeric Derambure
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Providing insights concerning the sneakers culture
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Elie Hodara
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Using statistics to make more efficient decisions
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Entrepreneurship&Business
+      </div>
+      <div
+        class="post__author"
+      >
+        Jacques Vilsboe
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Recover from a sport session
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Hélène Merlaud
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              play the game, play football, no matter who you are or where are you from
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Salah-eddine Miadi
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              To discover the interior of houses and flats (but only somptuous or atypical)
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Eléonore Auffray
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Learn how to sail when you don't know anything about boats
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Alexia Renaut
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Mentoring young people to help them fulfil in life
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Joseph Besancon
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Find ways of reducing the trash you produce.
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Education&Society
+      </div>
+      <div
+        class="post__author"
+      >
+        Valentine Dalloz
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Reinvente business of commodities
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Entrepreneurship&Business
+      </div>
+      <div
+        class="post__author"
+      >
+        Pierre Chatelain
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Debate over new technologies and sports
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Jean-baptiste Bost
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Discover the beauty code all around the world
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Mame Awa Ba
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Feeling the vintage vibe, vinyle back in the game !
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Amaury Lardeux
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Have a better communication with foreigners
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Alice Weber
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Introduce people to local wines
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Corentin Muraro
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Understand the importance of different angles in cinema genreas
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Khadija Sahnoun
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Be able to build a project with people you don’t like
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Manon Ottavi
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Teach people the origin of rap music
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Shalani Siwawa
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Cook meals from all around the world at home
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Emma Collart Dutilleul
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Develop and increase passive income
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Entrepreneurship&Business
+      </div>
+      <div
+        class="post__author"
+      >
+        Alexis Harnist
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Is the whale shark a real shark or a whale ?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Julien Gafsou
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              why is the whale-shark not a real shark ?
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Technology&Science
+      </div>
+      <div
+        class="post__author"
+      >
+        Noa Lesnicki-milgrom
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              How can i find a racing team for more than a season
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Alexandre Chevallier
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Skateboarding differently
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        François Delmas
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Discover world and cultures through sports events
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+         Human&Relationship
+      </div>
+      <div
+        class="post__author"
+      >
+        Olivier Lachenaud
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Uderstand morrocan culture through the development of sports
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Othman Fatih
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Share about the growing impact of new techs in our lives and especially in education
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Education&Society
+      </div>
+      <div
+        class="post__author"
+      >
+        Jules Pons
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Imagine the real estate of tomorrow
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Culture&Lifestyle
+      </div>
+      <div
+        class="post__author"
+      >
+        Roméo Poncet Labouche
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Describe how to eat healthily while doing sports in competition
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Sport&Outdoors
+      </div>
+      <div
+        class="post__author"
+      >
+        Mickaël Stanislawski
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              To understand the impact of art on fashion
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Mathilde Allard
+      </div>
+    </div>
+    <div
+      class="post"
+    >
+      <div
+        class="post__content"
+      >
+        <div>
+          <span>
+            <p>
+              Use music to communicate and as a therapy
+            </p>
+            
+
+          </span>
+        </div>
+      </div>
+      <div
+        class="post__tags"
+      >
+        Art&Design
+      </div>
+      <div
+        class="post__author"
+      >
+        Emma De Boissoudy
+      </div>
+    </div>
+  </div>
+</div>
+`;
