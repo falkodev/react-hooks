@@ -23,22 +23,23 @@ Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `npm run serve`
 
-### `npm run eject`
+Builds the app and serves it on [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Notes on the technical test
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I started with the idea to learn new things while coding for this test. It was the right time to test the new React feature: hooks.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+It enabled me to avoid Redux complexity, and I am impressed by the result. I used create-react-app to bootstrap the project quickly, and added the alpha version of React to activate these hooks.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+I chose to use `react-testing-library` in addition with `jest` in order to take advantage of this technical test because I already knew `enzyme`.
 
-## Learn More
+I tried to respect the limit of 3 hours, but lost some time discovering these test frameworks, so I did not had the time to add drag-and-drop and a PDF library.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Therefore, I chose to deliver a working product instead of some unfinished features and used the remaining time to refactor and cut into small pieces my current code.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+In addition, if I had more time, I would add more unit and functional tests.
+
+
