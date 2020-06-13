@@ -12,7 +12,7 @@ Lors de la [React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM), Faceb
 
 Dan Abramov, spécialiste des[ conférences avec effet d'annonces,](https://tarlao.fr/blog/gestion-de-l-etat-dans-react-avec-redux-1-5#architecture) présente une solution permettant de gérer l'état de l'application dans des fonctions plutôt que des classes, et même peut-être se passer de Redux, la solution dont il est co-auteur et qui lui a valu son embauche chez Facebook.
 
-{% youtube dpw9EHDh2bM %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpw9EHDh2bM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Cette solution, ce sont les hooks, qui permettent de gérer l'état local, l'API Context \(pour passer des variables globales à travers un arbre de composants\) , et [toutes sortes de hook](https://reactjs.org/docs/hooks-reference.html)
 
